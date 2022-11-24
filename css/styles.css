@@ -1,0 +1,78 @@
+body {
+  background:#08003D;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+  
+}
+
+img {
+  width: 10%;
+}
+
+
+
+.profile-picture {
+  display: block;    
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  width: 20%;
+}
+
+
+
+.profiledata{
+    padding: 20px;
+}
+
+
+.profile-name{
+  color: #86e00f;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+   
+}
+
+.profile-name2 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30px;
+    padding: 5px;
+}
+
+
+
+.profile-name3 {
+  color: #86e00f;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+
+
+.profile-name3  span{
+  color: white;
+  font-weight: 500;
+}
+
+.bottom-text {
+  padding: 20px;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 15px;
+}
+
+
+
+a {
+  text-decoration: none;
+  color: white;
+  transition: color 1s; 
+}
+
+.copyright{
+  color: #fff;
+}
